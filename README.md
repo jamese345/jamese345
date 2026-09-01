@@ -6,7 +6,7 @@ I build hands-on labs that simulate real SOC workflows — from packet-level tra
 
 ## 🛠️ Tool Stack
 
-**SIEM / SOAR:** Microsoft Sentinel · Splunk · Elastic Security (ELK) · Wazuh · 
+**SIEM / SOAR:** Microsoft Sentinel · Splunk · Elastic Security (ELK) · Wazuh 
 **EDR:** Microsoft Defender for Endpoint
 **Languages/Scripting:** Python · KQL · PowerShell · Bash
 **Frameworks:** MITRE ATT&CK
