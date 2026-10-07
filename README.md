@@ -10,7 +10,15 @@ I build hands-on labs that simulate real SOC workflows — from packet-level tra
 **EDR:** Microsoft Defender for Endpoint
 **Languages/Scripting:** Python · KQL · PowerShell · Bash
 **Frameworks:** MITRE ATT&CK
+## 🚀 Featured Projects
 
+### 🛡️ [SOC Log Analyzer](https://github.com/jamese345/soc-log-analyzer)
+Python-based SOC log analyzer that turns raw authentication logs into prioritized, analyst-ready alerts.
+- Detects brute force attacks, suspicious successful logins, and multiple users from a single IP
+- Severity classification, risk scoring, IOC extraction, and automated SOC reports
+- 11 automated tests (unittest)
+
+`Python` `Pandas` `Detection Engineering` `Incident Response`
 ## 📂 Featured Projects
 
 | Project | Focus | Highlights |
