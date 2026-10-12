@@ -71,11 +71,11 @@ I’m building a practical portfolio focused on applying **Python and AI to Secu
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=jamese345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=jamese345&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jamese345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -87,4 +87,4 @@ My goal is to build practical security tools that can **detect threats, analyze 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jamese345&icon=0&color=0)](https://visitcount.itsvg.in)
